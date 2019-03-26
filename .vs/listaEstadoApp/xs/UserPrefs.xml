@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5441E75A-A9B7-4AE2-992B-1ECDCEDFA67B}|Default">
+  <MonoDevelop.Ide.ItemProperties.listaEstadoApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="listaEstadoApp/MainPage.xaml">
+    <Files>
+      <File FileName="listaEstadoApp/MainPage.xaml.cs" Line="14" Column="13" />
+      <File FileName="listaEstadoApp/MainPage.xaml" Line="30" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="listaEstadoApp" expanded="True">
+            <Node name="listaEstadoApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.listaEstadoApp.Android PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

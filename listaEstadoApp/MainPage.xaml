@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:listaEstadoApp" 
+             x:Class="listaEstadoApp.MainPage"
+             Title="Estados">
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="buscar" Clicked="Handle_Clicked"/>
+    </ContentPage.ToolbarItems>
+    
+    <StackLayout>
+        
+        <!-- Place new controls here -->
+        
+        <Label Text=" "
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               FontSize="30"/>
+        
+        <Slider x:Name="slider_estado"
+                ValueChanged="Handle_ValueChanged"
+                MinimumTrackColor="Green"
+                MaximumTrackColor="Blue"
+                Minimum="0"
+                Maximum="28"/>
+        
+        <Label Text=" "
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               FontSize="30"/>
+        
+        <Label Text="Estados"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               x:Name="val_slider"
+               FontSize="30"
+               BindingContext="{x:Reference Name=slider_estado}"
+               Rotation="{Binding Path=Value}"/>
+            
+        <ListView x:Name="listaMunicipios">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Nome}"
+                              Detail="{Binding codigo}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+    </StackLayout>
+    
+</ContentPage>

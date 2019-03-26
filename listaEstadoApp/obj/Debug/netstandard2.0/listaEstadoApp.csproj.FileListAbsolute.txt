@@ -1,0 +1,12 @@
+/Users/j7/Projects/listaEstadoApp/listaEstadoApp/bin/Debug/netstandard2.0/listaEstadoApp.deps.json
+/Users/j7/Projects/listaEstadoApp/listaEstadoApp/bin/Debug/netstandard2.0/listaEstadoApp.dll
+/Users/j7/Projects/listaEstadoApp/listaEstadoApp/bin/Debug/netstandard2.0/listaEstadoApp.pdb
+/Users/j7/Projects/listaEstadoApp/listaEstadoApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/j7/Projects/listaEstadoApp/listaEstadoApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/j7/Projects/listaEstadoApp/listaEstadoApp/obj/Debug/netstandard2.0/listaEstadoApp.csproj.CoreCompileInputs.cache
+/Users/j7/Projects/listaEstadoApp/listaEstadoApp/obj/Debug/netstandard2.0/listaEstadoApp.AssemblyInfoInputs.cache
+/Users/j7/Projects/listaEstadoApp/listaEstadoApp/obj/Debug/netstandard2.0/listaEstadoApp.AssemblyInfo.cs
+/Users/j7/Projects/listaEstadoApp/listaEstadoApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/j7/Projects/listaEstadoApp/listaEstadoApp/obj/Debug/netstandard2.0/listaEstadoApp.dll
+/Users/j7/Projects/listaEstadoApp/listaEstadoApp/obj/Debug/netstandard2.0/listaEstadoApp.pdb
+/Users/j7/Projects/listaEstadoApp/listaEstadoApp/obj/Debug/netstandard2.0/listaEstadoApp.csprojAssemblyReference.cache
